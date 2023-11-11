@@ -1,4 +1,7 @@
 Welcome to the AI chat app! This app was built using ReactJS and OpenAI's GPT language model. To get started, you'll need to obtain a token from OpenAI and add it to the .env file. Once you have done that, you can run the app using the following command:
+<img width="524" alt="Screenshot 2023-11-11 at 12 54 48 PM" src="https://github.com/bongoyo2006/ChatBot/assets/26642197/a4f0f94b-3f3e-46f3-a1d3-880b57b116f2">
+
+
 
 ```
 npm run start
